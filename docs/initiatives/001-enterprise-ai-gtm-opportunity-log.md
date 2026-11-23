@@ -14,7 +14,7 @@
 
 This is **not** primarily a marketing-automation idea, a GEO monitoring tool, a chatbot business, or a proposal to replace an enterprise's technology estate. It is a search for the next bottleneck in **enterprise value creation** and for a possible repeatable business model to address it.
 
-Our current *hypothesis* is that AI shifts constraints unevenly across the five classical management domains — **產、銷、人、發、財** (Production/Operations, Sales/Marketing, People/Organisation, R&D/Product, Finance). Reducing the cost or cycle time in one domain does not automatically improve the throughput of the whole business. Opportunities may emerge at the boundaries between domains: releasing and distributing capabilities, making proprietary expertise accessible, changing service economics, redesigning decision rights, and proving outcomes.
+Our current *hypothesis* is that AI shifts constraints unevenly across the five classical management domains — **Production/Operations, Sales/Marketing, People/Organisation, R&D/Product, and Finance**. Reducing the cost or cycle time in one domain does not automatically improve the throughput of the whole business. Opportunities may emerge at the boundaries between domains: releasing and distributing capabilities, making proprietary expertise accessible, changing service economics, redesigning decision rights, and proving outcomes.
 
 A potentially useful framing:
 
@@ -81,7 +81,7 @@ This is **a map of relationships, not a mandatory stage-gate pipeline**. Signals
 | 6 | Is Delivery the core bottleneck? | In the author's envisioned Strategy OS/Discovery/Delivery system, delivery may become dramatically faster. The exploration shifts to **release, distribution, GTM, adoption and value capture**. |
 | 7 | Should Product Discovery and Market Discovery be two parallel lanes? | **Rejected as a mandatory model.** Discovery is continuous and varies with uncertainty. Problems or desired new experiences may already be known. Market/customer signals generally precede readiness work. |
 | 8 | Do products emerge from pure ideas? | Rarely as a useful operating assumption. Look for signals of customer motivation, unmet progress, workarounds, budget, buying behaviour, switching pressures and aspirations. |
-| 9 | Is this only a marketing question? | No. The systems frame is **產銷人發財**: Production, Sales, People, R&D/Product and Finance. Every improvement can move constraints and change commercial economics across functions. |
+| 9 | Is this only a marketing question? | No. The systems frame is **the five enterprise management domains**: Production, Sales/Marketing, People/Organisation, R&D/Product, and Finance. Every improvement can move constraints and change commercial economics across functions. |
 | 10 | Is this the same as AI Transformation? | AI Transformation is an umbrella category, **not yet a distinctive product or business model**. The venture question is whether a repeatable, cross-functional value-realisation capability exists. |
 
 ### 2.1 Terminology to keep distinct
@@ -141,17 +141,17 @@ Important separation: continuous discovery can reduce the risk of building the w
 
 ---
 
-## 4. Enterprise perspective: 產、銷、人、發、財
+## 4. Enterprise perspective: five management domains
 
 The five domains are **different lenses on one interconnected value stream**, not five independent AI departments to automate.
 
 | Domain | AI can make cheaper/faster | Constraint that may move or become more visible | Cross-domain opportunity | Watch-out |
 |---|---|---|---|---|
-| **產 — Production / Operations / Service Delivery** | Drafting, software, document production, analysis, routine execution, QA assistance | Reliability, integration, regulated approvals, delivery accountability, real-world throughput | Productise repeatable services; enable customer-facing teams with operational expertise | More output without demand; quality and liability; billable-hour cannibalisation |
-| **銷 — Sales / Marketing / Commercial** | Account research, segmentation, content adaptation, lead routing, CRM workflows | Attention, trust, distribution rights, procurement, timing, multiple stakeholders | GTM Engineering; expertise-to-commercial-activation | High-volume low-trust spam; vanity leads; misattribution |
-| **人 — People / Organisation** | Administrative and routine knowledge work, training, information access | Adoption, role redesign, incentives, ownership, decision rights | Human-agent operating practices; cross-functional outcome teams | Hidden shadow work, deskilling, accountability gaps |
-| **發 — R&D / Product / Innovation** | Research synthesis, prototypes, testing, experiment execution | Strategic selection, domain judgment, scientific validity, scarce customer access | Stronger link between signal, Discovery, product capability and realised benefit | Experiment throughput mistaken for learning |
-| **財 — Finance / Capital Allocation** | Reporting, scenario analysis, forecasting assistance, anomaly identification | Causal ROI measurement, pricing model, budget flexibility, risk appetite | Continuous value evaluation and evidence-informed resource allocation | “Hours saved” booked as cash; optimism bias; double-counted benefits |
+| **Production / Operations / Service Delivery** | Drafting, software, document production, analysis, routine execution, QA assistance | Reliability, integration, regulated approvals, delivery accountability, real-world throughput | Productise repeatable services; enable customer-facing teams with operational expertise | More output without demand; quality and liability; billable-hour cannibalisation |
+| **Sales / Marketing / Commercial** | Account research, segmentation, content adaptation, lead routing, CRM workflows | Attention, trust, distribution rights, procurement, timing, multiple stakeholders | GTM Engineering; expertise-to-commercial-activation | High-volume low-trust spam; vanity leads; misattribution |
+| **People / Organisation** | Administrative and routine knowledge work, training, information access | Adoption, role redesign, incentives, ownership, decision rights | Human-agent operating practices; cross-functional outcome teams | Hidden shadow work, deskilling, accountability gaps |
+| **R&D / Product / Innovation** | Research synthesis, prototypes, testing, experiment execution | Strategic selection, domain judgment, scientific validity, scarce customer access | Stronger link between signal, Discovery, product capability and realised benefit | Experiment throughput mistaken for learning |
+| **Finance / Capital Allocation** | Reporting, scenario analysis, forecasting assistance, anomaly identification | Causal ROI measurement, pricing model, budget flexibility, risk appetite | Continuous value evaluation and evidence-informed resource allocation | “Hours saved” booked as cash; optimism bias; double-counted benefits |
 
 ### 4.1 The cross-functional effect of one improvement
 
@@ -317,7 +317,7 @@ The cases must not be treated as interchangeable. A global bank, consumer-goods 
 | **B. GTM Engineering for Complex B2B** | Reduce handoff and execution latency from approved offering/release to relevant accounts, channels and qualified buying motions. | CRO / Revenue Operations / GTM leadership | Managed technical workflow, later reusable connectors | Customer attention and compliance, not automation, are the constraint |
 | **C. Product-to-Value Evidence Loop** | Tie strategic bet, continuous Discovery, shipped capability, release, market signals, adoption and economic outcomes into one traceable evidence trail. | CPO / COO / transformation sponsor | Lightweight integration/evidence layer | Source-of-truth fragmentation, attribution, duplicate existing tools |
 | **D. AI Operations / Transformation Engineering** | Identify and improve one value-stream constraint, including cross-functional workflow and ownership. | COO / business-unit owner | Service-led operational improvement; repeatable playbooks | Labour intensity, customer-specific work |
-| **E. Enterprise Value Orchestration OS** | Discover constraints, decide, execute and allocate capital across 產銷人發財 using evidence. | CEO / COO / CFO | Long-term platform vision | Vast surface area, diffuse budgets, complex politics, unproven category |
+| **E. Enterprise Value Orchestration OS** | Discover constraints, decide, execute and allocate capital across the five management domains using evidence. | CEO / COO / CFO | Long-term platform vision | Vast surface area, diffuse budgets, complex politics, unproven category |
 
 **Provisional near-term research focus (not a product decision):** **A + B + C** at the intersection of expert knowledge, post-delivery GTM, and measurable outcomes. **D** may be the services channel to learn quickly. **E** is an architectural north star, not an MVP.
 
@@ -347,7 +347,7 @@ All numeric thresholds below are **illustrative experiment gates**. Adjust only 
 | **H05 — GTM Engineer as a buyer need** | Commercial teams will fund engineering of data, routing and workflow reliability, not just buy copy/content generation. | Interview 10–15 GTM/RevOps leaders; observe current workflows; request a paid scoped pilot. | Budget owner, quantified workflow loss, willingness to pay, paid pilot. | Positive interest without budget/action, or existing CRM tools solve cheaply. |
 | **H06 — Value evidence differentiator** | Linking release, buyer progress and economics improves priority/kill decisions more than isolated activity dashboards. | For 2–3 strategic bets, create a manual evidence ledger and review it with a decision owner. | Decisions changed, spend reallocated, avoided work, faster resolution of uncertainty. | No consequential decisions change; attribution too weak to be useful. |
 | **H07 — Services to repeatable product** | At least two organisations share a core repeatable workflow/data contract that can be served without rebuilding each integration from scratch. | Repeat the same bounded slice in two distinct B2B contexts; log common versus client-specific hours. | Share of reusable components, deployment effort, implementation gross margin. | Customer-specific semantics/approval dominate; every engagement is bespoke. |
-| **H08 — Cross-domain incentive constraint** | For selected AI improvements, decision rights or pricing/incentives constrain benefit more than missing model capability. | Map one end-to-end approval/value flow with 產銷人發財 owners; inspect one disputed investment or launch. | Decision latency, unclear ownership, conflicting KPIs, time to agreement. | Constraints are primarily technical, not organisational. |
+| **H08 — Cross-domain incentive constraint** | For selected AI improvements, decision rights or pricing/incentives constrain benefit more than missing model capability. | Map one end-to-end approval/value flow with Production, Sales/Marketing, People, R&D/Product, and Finance owners; inspect one disputed investment or launch. | Decision latency, unclear ownership, conflicting KPIs, time to agreement. | Constraints are primarily technical, not organisational. |
 | **H09 — B2B trust over scale** | Verified domain evidence and high-context access outperform higher volumes of generic AI-generated outreach for qualified buyer progress. | Compare small, consent-compliant, account-relevant approaches with current baseline; avoid uncontrolled spamming. | Meaningful replies, qualified technical meetings, stakeholder progress, opt-outs. | Evidence-rich approach shows no difference and costs more per qualified opportunity. |
 | **H10 — Economic value capture** | A material share of AI time savings is not realised as enterprise benefit without pricing, redeployment or process change. | Follow one efficiency improvement through billing, staffing, risk, delivery quality and margin. | Cash cost avoided, capacity redeployed, incremental margin or revenue. | Savings are already fully captured and correctly recognised. |
 
@@ -509,7 +509,7 @@ Interview budget owners after showing an actual bounded result. Request a narrow
 | Item | Status | Rationale |
 |---|---|---|
 | Study post-delivery release/GTM/adoption/value creation | **Focus** | Underexplored relative to the author's Strategy OS/Discovery/Delivery effort |
-| Use five-domain 產銷人發財 lens | **Focus** | Prevents local/department-only optimisation |
+| Use the five-domain enterprise management lens | **Focus** | Prevents local/department-only optimisation |
 | Treat customer signals and motivation as antecedents | **Principle** | Ideas rarely arise without context; discovery scope varies |
 | Make a two-lane Discovery/GTM diagram mandatory | **Rejected** | Misrepresents continuous discovery and pre-existing signals |
 | Start by building GEO-monitoring software | **Rejected for now** | Too narrow; not the core system opportunity |
